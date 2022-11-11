@@ -14,6 +14,7 @@ A small repo of some of my favorite Rainmeter skins, created by me.
 
 - ***Marquee Player*** - Same as the Updated Youtube, but with additional marquee support to fully display longer song and artist titles. 
 <p align="center"><img width="300" src="assets/marqueeplayer.gif" alt="Youtube Player PNG"></p>
+
 ## Installation Steps
 
 1. Download or clone this repository.
