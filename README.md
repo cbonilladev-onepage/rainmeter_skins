@@ -1,26 +1,37 @@
-# Some Rainmeter Skins
+<h1 align="center">🌧 Rainmeter Library 🌧</h1>
+
+### Here you go.
 
 A small repo of some of my favorite Rainmeter skins, created by me. 
 
-**Required languages**: INI
+## Skin List
 
-# What I Learned
+- ***Youtube Player*** - Original music player and album cover visualizer. Supports most online music players including Youtube, Soundcloud, and more. 
+- ***Youtube Player [Updated]*** - Modern Youtube player with larger font size and Spotify (both desktop and online versions) support.
+- ***Marquee Player*** - Same as the Updated Youtube, but with additional marquee support to fully display longer song and artist titles. 
+## Installation Steps
 
-* Desktop customization. 
+1. Download or clone this repository.
 
-# How To Use
+```sh
+git clone https://github.com/cbonilladev-onepage/rainmeter_skins
+```
 
-<ul>
-	<li><strong>Youtube Player</strong>:  
-		<ol>
-			<li>Download <a href="https://www.rainmeter.net/">Rainmeter</a></li>
-			<li>Download the <a href="https://www.rainmeter.net/https://github.com/tjhrulz/WebNowPlaying">Web Now Playing</a> browser tool to read your browser's current video or song.</li>
-			<li>Install and load your <i>youtube_player.rmskin</i>, which should load the application immediately. </li>
-			<li>Enjoy. Youtube should display the video title and channel name, while Soundcloud should display your track song and artist. I haven't tested browser Spotify functionality, but it should work the same.</li>
-		</ol>
-		</br>
-		<div align="center">
-		<img src="https://i.imgur.com/kNWmC8f.png">
-		</div>
-	</li>
-</ul>
+2. Place the skin folder in your main Rainmeter repository.
+```
+C:\Users\[Profile]\Documents\Rainmeter\Skins
+```
+
+
+## Additional Plugins
+Using an app that displays song sound information from browsers will require additional plugins to function.
+
+| Plugin | README | Info |
+| ------ | ------ | ---- |
+| WebNowPlaying (Rainmeter DLL) | [Latest Version][WebNowPlayingDLL] | Hooks chrome extension to Rainmeter. |
+| WebNowPlaying (Chrome Extension) | [Latest Version][WebNowPlayingChrome] | Grabs the music information from browser. |
+| Spicetify | [Latest Version][SpicetifyForRainmeter] | Allows for modern Spotify integration to Rainmeter. |
+
+[WebNowPlayingDLL]: https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli
+[WebNowPlayingChrome]: https://chrome.google.com/webstore/detail/webnowplaying-companion/jfakgfcdgpghbbefmdfjkbdlibjgnbli
+[SpicetifyForRainmeter]:https://rainmeter.simplecyber.ml/docs/spicetify
