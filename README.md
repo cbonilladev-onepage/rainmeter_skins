@@ -7,8 +7,13 @@ A small repo of some of my favorite Rainmeter skins, created by me.
 ## Skin List
 
 - ***Youtube Player*** - Original music player and album cover visualizer. Supports most online music players including Youtube, Soundcloud, and more. 
+<p align="center"><img width="300" src="assets/youtubeplayer.png" alt="Youtube Player PNG"></p>
+
 - ***Youtube Player [Updated]*** - Modern Youtube player with larger font size and Spotify (both desktop and online versions) support.
+<p align="center"><img width="300" src="assets/youtubeplayerupdated.png" alt="Youtube Player PNG"></p>
+
 - ***Marquee Player*** - Same as the Updated Youtube, but with additional marquee support to fully display longer song and artist titles. 
+<p align="center"><img width="300" src="assets/marqueeplayer.gif" alt="Youtube Player PNG"></p>
 ## Installation Steps
 
 1. Download or clone this repository.
